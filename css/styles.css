@@ -10,12 +10,9 @@ body{
     line-height: 1.7;
     font-size: 13px;
 }
-h1{
-    text-align: center;
-}
 .testimonial{
     max-width: 1440px;
-    margin: 50px auto;
+    margin: 100px auto;
     padding: 20px;
     display: grid;
     grid-template-columns: repeat(4,1fr);
